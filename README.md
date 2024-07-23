@@ -10,7 +10,6 @@
 <a href="https://dev.to/alarkjani" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
 </a>
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
 
 ### Glad to see you here!
@@ -55,17 +54,17 @@ My professional experience has involved working with cross-functional teams to d
 ## GitHub Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlarkJani&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?AlarkJani&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=your-github-username&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AlarkJani&&style=flat-square)  
 
 <br/>
 
